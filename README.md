@@ -1,33 +1,64 @@
-# Hi 👋, I'm Ym_zerotwo
+<div align="center">
+  <a href="https://ymzerotwo.com">
+    <img src="https://ymzerotwo.com/_next/image?url=%2FYm_zerotwo.jpg&w=96&q=75" width="100" style="border-radius: 50%" alt="Ym_zerotwo" />
+  </a>
+</div>
 
-### Software Developer & Creative Designer
 
-- 🔭 I'm currently working on **FabriSys (Clothing Factory ERP) & Core-X Framework (A secure TypeScript backend ecosystem).**
+<div align="center">
 
-- 📫 How to reach me **Visit my portfolio: ymzerotwo.com**
+  ### *"I don't just write code; I design Digital Ecosystems."*
 
-- ⚡ Fun fact **I believe that in code, sometimes you need to be "ruthless" to achieve perfect logic and performance.**
+  An analytical mind engineered for evolution. Specializing in high-performance digital ecosystems and resilient fortresses.
 
-- 👨‍💻 All of my projects are available at **[https://ymzerotwo.com/](https://ymzerotwo.com/)**
+  <a href="https://ymzerotwo.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Ym__zerotwo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://buymeacoffee.com/ym_zerotwo">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
 
-- 📝 I regularly write articles on **[https://ymzerotwo.com/](https://ymzerotwo.com/)**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ymzerotwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ymzerotwo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ym-zerotwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ym-zerotwo" height="30" width="40" /></a>
-<a href="https://fb.com/Ymzero2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ymzero2" height="30" width="40" /></a>
-<a href="https://instagram.com/Ym_zerotwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ym_zerotwo" height="30" width="40" /></a>
-<a href="https://twitter.com/Ym_zerotwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ym_zerotwo" height="30" width="40" /></a>
-<a href="https://youtube.com/Ym_zerotwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ym_zerotwo" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+## ⚡ Core Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ymzerotwo&show_icons=true&locale=en&layout=compact" alt="Ymzerotwo" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ymzerotwo&show_icons=true&locale=en" alt="Ymzerotwo" /></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,supabase,tailwind&perline=9" alt="My Tech Stack" />
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ymzerotwo&" alt="Ymzerotwo" /></p>
+</div>
 
+| Technology | Status | Role |
+| :--- | :--- | :--- |
+| **Next.js** | 🚀 High Performance | **Full Stack Architecture** |
+| **React** | ⚛️ Dynamic UI | **Interactive Frontends** |
+| **Supabase** | ⚡ Real-time | **Scalable Backend & Auth** |
+| **Tailwind** | 🎨 Utility-First | **Responsive Design System** |
+| **Node.js** | 🟢 Server Runtime | **API Development** |
+
+---
+
+## 🛠️ Featured Projects
+
+### 🔮 [Core-X](https://github.com/Ymzerotwo/core-x)
+> *An advanced system architecture designed for high-performance applications.*
+
+- **Status:** 🚧 In Development
+- **Focus:** System Architecture, Performance, Security
+- **Tech:** Next.js, TypeScript, Supabase
+
+---
+
+<div align="center">
+  
+  **Let's build something resistant to chaos together.**
+
+  <a href="mailto:contact@ymzerotwo.com">
+    <img src="https://img.shields.io/badge/Contact-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+
+</div>
